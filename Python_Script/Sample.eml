@@ -1,0 +1,32 @@
+From: "Support" <support@msupdate.net>
+To: ethan@hooksecurity.co
+Subject: Microsoft account password change
+Date: Mon, 27 May 2024 16:09:00 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+    <p><strong>Microsoft account</strong></p>
+    <h2 style="color: #2b5797;">Your password changed</h2>
+
+    <p>Your password for the Microsoft account <a href="mailto:ethan@hooksecurity.co">ethan@hooksecurity.co</a> was changed.</p>
+
+    <p>If this was you, then you can safely ignore this email.</p>
+
+    <p><strong>Security info used:</strong><br>
+    Country/region: United States<br>
+    Platform: iOS<br>
+    Browser: Safari<br>
+    IP address: 77.196.86.10</p>
+
+    <p>If this wasn't you, your account has been compromised. Please follow these steps:<br>
+    <a href="http://msupdate-reset.com">1. Reset your password.</a><br>
+    <a href="http://msupdate-review.com">2. Review your security info.</a><br>
+    <a href="http://msupdate-help.com">3. Learn how to make your account more secure.</a></p>
+
+    <p>You can also <a href="http://msupdate-optout.com">opt out</a> or change where you receive security notifications.</p>
+
+    <p>Thanks,<br>The Microsoft account team</p>
+</body>
+</html>
