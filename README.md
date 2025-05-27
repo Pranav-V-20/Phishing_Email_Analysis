@@ -1,5 +1,7 @@
 # 📧 Phishing Email Analysis
 
+> Task 2 - Elevate Labs - Cyber security Internship
+
 This repository contains a detailed analysis of a **phishing email sample** impersonating Microsoft, with the goal of identifying common phishing indicators and raising awareness about social engineering attacks.
 
 ## 🔍 Objective
